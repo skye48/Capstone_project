@@ -6,7 +6,7 @@ The goal of this project was to create a logistic regression model to predict em
 
 **Data Understanding**  
 This project uses a dataset called HR_capstone_dataset.csv came from [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv). It represents 10 columns of self-reported information from employees of a fictitious multinational vehicle manufacturing corporation. The dataset contains:  
-  14,999 rows – each row is a different employee’s self-reported information. 
+  14,999 rows – each row is a different employee’s self-reported information.  
   10 columns  
 | Column name | Type | Description |
 |-------------|------|-------------|
