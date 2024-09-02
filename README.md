@@ -1,5 +1,5 @@
 # Project: Predicting employees leaving
-_Capstone project for Google Advanced Data Analytics Certificate on Coursera
+_Capstone project for Google Advanced Data Analytics Certificate on Coursera_
 
 **Overview**  
 This project is part of the Google Advanced Data Analytics Certificate program on Coursera. It focuses on applying data analytics skills and knowledge to solve a business problem related to employee retention. The goal was to build a logistic regression model to predict which employees are most likely to leave the company.
